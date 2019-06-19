@@ -7,7 +7,7 @@ All anyone needs to develop with ARKit is
 We'll also be using Twilio Video so you'll need an account [here](https://www.twilio.com/try-twilio) if you don't have one already and SceneKit, which is for 3D content. We'll also need an [Apple developer account](https://developer.apple.com/) as AR apps cannot be tested on the iOS simulator.
 
 
-The yellow points around the ship above are feature points, more of which appear when the lighting is good and when you move around a bit(not too quickly, however). That lets ARKit better detect features, like orientation and position, of physical objects. 
+The yellow points around the ship above are feature points, more of which appear when the lighting is good and when you move around a bit (not too quickly, however). That lets ARKit better detect features, like orientation and position, of physical objects. 
 
 ## Set up your iOS Developer Environment for ARKit
 First, let's make a new XCode project and select the Augmented Reality App template.
